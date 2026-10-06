@@ -16,8 +16,8 @@ function Learn() {
                     </div>
                      <div className="Mascot-Eye">
                          <div className="LeftEye">
-                                <div className="pupil">
-
+                                <div className="pupill">
+                                    <h1>Haha</h1>
                                 </div>
                          </div>
                          <div className="Nose">
